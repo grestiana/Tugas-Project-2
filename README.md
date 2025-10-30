@@ -98,29 +98,22 @@ Pilih menu:
 
 
 Kamu bisa memilih nomor menu sesuai kebutuhan:
-
 1 → Memuat data dari CSV
-
 2 → Menambah mahasiswa baru
-
 3 → Memperbarui kehadiran
-
 4 → Memperbarui nilai
-
 5 → Melihat rekap hasil
-
 6 → Menyimpan laporan ke file Markdown
-
 7 → Keluar dari aplikasi
 
 ✨ Contoh Output Rekap Nilai di Terminal
 NIM        | Nama            | Hadir (%) | Nilai Akhir | Predikat
 ----------------------------------------------------------------------
-230101001  | Ana             |    92.0%  |       89.45 |    A
-230101002  | Bimo            |    60.0%  |       64.55 |    D
-230101003  | Cici            |   100.0%  |       94.40 |    A
-230101004  | Dio             |    70.0%  |       79.45 |    B
-230101005  | Gres            |    90.0%  |        0.00 |    E
+230101001  | Agatha             |    92.0%  |       89.45 |    A
+230101002  | Berlin            |    60.0%  |       64.55 |    D
+230101003  | Camila            |   100.0%  |       94.40 |    A
+230101004  | Dina             |    70.0%  |       79.45 |    B
+230101005  | Gresti            |    90.0%  |        96.00 |    A
 
 📝 Contoh Output Laporan Markdown (out/report.md)
 # Rekap Nilai Mahasiswa

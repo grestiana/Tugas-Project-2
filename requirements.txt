@@ -1,0 +1,16 @@
+# === Student Performance Tracker Dependencies ===
+# Library utama yang dibutuhkan untuk menjalankan aplikasi
+
+# Library untuk tampilan teks berwarna dan tabel rapi di terminal
+rich==14.2.0
+
+# Library standar Python untuk membaca dan menulis file CSV
+# (biasanya sudah terpasang otomatis di Python)
+csvkit==1.0.8
+
+# Library tambahan untuk manipulasi teks dan format Markdown (opsional)
+markdown-it-py==2.2.0
+
+# === Catatan ===
+# Kamu bisa menginstal semua dependensi ini dengan:
+# pip install -r requirements.txt
